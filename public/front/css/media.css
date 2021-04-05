@@ -1,0 +1,1694 @@
+@media(max-width: 1700px){
+
+    /* Common Classes Start */
+    .fontSize94{
+        font-size: 88px;
+        line-height: 110px;
+    }
+    .fontSize81{
+        font-size: 80px;
+        line-height: 97px;
+    }
+    .fontSize63{
+        font-size: 58px;
+        line-height: 76px;
+    }
+    /* Common Classes End */
+
+    /* Home Page Start */
+    .container {
+        max-width: 1400px;
+    }
+    .ourSolutionLists {
+        padding: 0 97px;
+    }
+    .mainBanners h1{
+        font-size: 88px;
+        line-height: 110px;
+    }
+    .mainBanners p{
+        margin-bottom: 50px;
+    }
+    .mainBanners h3{
+        margin: 30px 0 20px;
+        font-size: 36px;
+    }
+    .ourSolutions {
+        padding: 180px 0;
+    }
+    .yourBusiness .busLeftCont {
+        padding-left: 30%;
+    }
+    .downloadSec .row{
+        padding: 70px 120px 0px;
+    }
+    /* Home Page End */
+    /* Category Detail Page Start */
+    .mainBanners h1{
+        padding-right: 35%;
+    }
+    .solCategories .ourSolutionRight {
+        padding-left: 70px;
+    }
+    /* Category Detail Page End */
+
+    /* Category Detail 2 Page Start */
+    .ourSolutionsInner.ourSolutionsInner2 {
+        display: block;
+        padding: 0px 185px;
+    }
+    /* Category Detail 2 Page End */
+
+    /* Blog Page Start */
+    .blogItems .blogDetails .blogTitle{
+        font-size: 36px;
+        line-height: 46px;
+    }
+    /* Blog Page End */
+
+    /* Become Partner Page Start */
+    .partnerPage .yourBusiness .busLeftCont {
+        padding-left: 100px;
+    }
+    .partnerPage .servicesLeftContent p.fontSize38{
+        font-size: 34px;
+        line-height: 46px;
+    }
+    /* Become Partner Page End */
+    /* Feedback Modal Stat */
+    .feedbackModal .modal-dialog{
+        margin: 110px auto;
+        max-width: 90%;
+    }
+    /* Feedback Modal End */
+    /* About Page Start */
+    .yourBusiness.aboutTopBox .busLeftCont {
+        padding-left: 21%;
+    }
+    .weHelpSection .handleList{
+        margin-right: 35px;
+    }
+    /* About Page End */
+.solutionBg .mainBanners h1{
+    padding-right: 0;
+}
+}
+@media(max-width: 1560px){
+    /* Common Classes Start */
+    .fontSize54 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .fontSize63 {
+        font-size: 56px;
+        line-height: 72px;
+    }
+    .fontSize38{
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .fontSize94 {
+        font-size: 77px;
+        line-height: 92px;
+    }
+    .fontSize81 {
+        font-size: 76px;
+        line-height: 92px;
+    }
+    /* Common Classes End */
+    /* Home Page Start */
+    .container {
+        max-width: 1260px;
+    }
+    .mainBanners h1 {
+        font-size: 80px;
+        line-height: 98px;
+    }
+    .navbar-expand-md{
+        padding: 40px 0;
+    }
+    .mainBanners h3{
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .downloadSec .row {
+        padding: 70px 60px 0px;
+    }
+    .footmiddle {
+        width: 28%;
+    }
+    .ourSolutionLists {
+        padding: 0 0 0 97px;
+    }
+    .yourBusiness .busLeftCont {
+        padding-left: 22%;
+    }
+    /*.mainBanners h1 br{*/
+    /*    display: none;*/
+    /*}*/
+    /* Home Page End */
+
+    /* Category Detail Page Start */
+    .solCategories .ourSolutionRight {
+        padding-left: 50px;
+    }
+    .mainBanners h3 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .ourSolutionLists .ourSolList{
+        height: 290px;
+        width: 324px;
+    }
+    .ourSolutionLists .ourSolList .cardImage{
+        height: 200px;
+    }
+    /* Category Detail Page End */
+
+    /* Category Detail2 Page Start */
+    .ourSolutionsInner.ourSolutionsInner2 {
+        display: block;
+        padding: 0px 115px;
+    }
+    .innerSections{
+        margin-top: 210px;
+    }
+    .contactusPage .innerSections {
+        margin-bottom: 60px;
+    }
+    /* Category Detail2 Page End */
+
+    /* Blog Page Start */
+    .blogItems .blogDetails .blogTitle {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .blogItems .blogImage {
+        height: 400px;
+    }
+    /* .blogLists .blogImage {
+        height: 185px;
+    } */
+    .blogItems {
+        margin-bottom: 81px;
+    }
+    .leftForm{
+        padding: 54px 140px 35px 140px;
+    }
+    .rightForm{
+        padding: 54px 180px 35px 90px;
+    }
+    /* Blog Page End */
+
+    /* Blog Detail Page Start */
+    .recentBlogs .recentBlogBox .blogImage{
+        margin-right: 30px;
+    }
+    .footerCurve{
+        /* clip-path: polygon(0% 75%, 100% 0%, 100% 100%, 0% 100%); */
+        top: -79px;
+        height: 80px;
+    }
+    .footer{
+        padding: 80px 0 30px;
+    }
+    /* Blog Detail Page End */
+    
+    /* Solutions Page Start */
+    .solutionsBoxs {
+        padding: 125px 0 80px;
+    }
+    /* Solutions Page End */
+    /* Feedback Modal Stat */
+    .feedbackModal .modal-dialog {
+        margin: 100px auto;
+    }
+    button.close{
+        height: 50px;
+        width: 50px;
+    }
+    /* Feedback Modal End */
+    /* About Page Start */
+    .weHelpSection .handleList {
+        margin-right: 30px;
+    }
+    .servicesSteps .stepNumber span{
+        font-size: 170px;
+    }
+    .servicesSteps {
+        display: flex;
+        /* margin-bottom: 120px; */
+        margin-bottom: 60px;
+    }
+    .trustedSec2 {
+        margin-bottom: 80px;
+    }
+    /* About Page End */
+    .ourServicesRight{
+        padding-right: 120px;
+    }
+    .yourBusImage{
+        padding-left: 200px;
+    }
+    .partnerPage .yourBusImage {
+        padding-left: 50px;
+    }
+    .servicesLeftContent p{
+        padding-right: 0;
+    }
+}
+@media(max-width: 1367px){
+    /* Common Classed Start */
+    .fontSize54 {
+        font-size: 48px;
+        line-height: 57px;
+    }
+    .fontSize94 {
+        font-size: 74px;
+        line-height: 90px;
+    }
+    .fontSize81 {
+        font-size: 70px;
+        line-height: 83px;
+    }
+    /* Common Classed End */
+
+    /* Home Page Start */
+    .navbar-brand, .footLogo, .footleft {
+        padding: 0;
+        width: 162px;
+    }
+    .mainBanners h1 {   
+        font-size: 70px;
+        line-height: 86px;
+    }
+    .container {
+        max-width: 1100px;
+    }
+    .mainBanners h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .navbar-expand-md {
+        padding: 20px 0;
+    }
+    .fixedHeader .navbar-expand-md{
+        padding: 15px 0;
+    }
+    .ourSolutionLeft {
+        width: 370px;
+        min-width: 370px;
+    }
+    .ourSolutions {
+        padding: 130px 0;
+    }
+    .ourSolutionLists .ourSolList {
+        height: 240px;
+        width: 259px;
+    }
+    .ourSolutionLists .ourSolList .cardImage {
+        height: 150px;
+    }
+    .yourBusiness .busLeftCont {
+        padding-left: 14%;
+    }
+    .servicesLeftContent h2 br{
+        display: none;
+    }
+    .bussnissBtmContent {
+        margin-top: 130px;
+    }
+    .footmiddle {
+        width: 31%;
+    }
+    /* Home Page End */
+
+    /* Category Detail Page Start */
+    .solFormBox{
+        width: 86%;
+    }
+    .solDescription .solutionDescrip {
+        padding: 0 20px;
+    }
+    /* Category Detail Page End */
+
+    /* Category Detail2 Page Start */
+    .ourSolutionsInner.ourSolutionsInner2 {
+        display: block;
+        padding: 0px 15px;
+    }
+    /* Category Detail2 Page End */
+    /* Privacy Page Start */
+    .innerSections {
+        margin-top: 160px;
+    }
+    .contactusPage h1 {
+        margin-bottom: 30px;
+    }
+    .contentEditor .editorBox {
+        padding: 0 70px;
+        margin-bottom: 150px;
+    }
+    .blogDetailBtm {
+        margin-bottom: 150px;
+    }
+    /* Privacy Page End */
+
+    /* Blog Page Start */
+    .blogItems .blogImage {
+        height: 340px;
+    }
+    .blogItems .blogDetails .blogTitle {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    /* .blogLists .blogImage {
+        height: 160px;
+    } */
+    .blogLists {
+        margin-bottom: 180px;
+    }
+    .leftForm {
+        padding: 54px 100px 35px 100px;
+    }
+    .rightForm {
+        padding: 54px 100px 35px 90px;
+    }
+    /* Blog Page End */
+    /* Become Partner Page Start */
+    .partnerPage .busLeftCont h1{
+        font-size: 60px;
+        line-height: 80px;
+        margin-bottom: 50px;
+    }
+    .partnerPage .servicesLeftContent p.fontSize38 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .partnerPage .yourBusiness .busLeftCont {
+        padding-left: 28%;
+    }
+    /* Become Partner Page End */
+    /* Feedback Modal Stat */
+    .feedbackModal .modal-dialog {
+        margin: 100px auto;
+        display: block;
+    }
+    .servicesSteps {
+        /* margin-bottom: 100px; */
+    }
+    /* Feedback Modal End */
+    /* About Page Start */
+    .weHelpSection .handleList{
+        width: 43%;
+    }
+    .ourServicesRight {
+        padding-right: 60px;
+    }
+    .servicesSteps .stepNumber span {
+        font-size: 150px;
+    }
+    /* About Page End */
+    .solDescription .solutionIcon {
+        padding: 0 20px;
+    }
+    .yourBusImage {
+        padding-left: 100px;
+    }
+    .partnerPage .yourBusImage {
+        padding-left: 0;
+    }
+}
+@media(max-width : 1199px){
+    /* Common Classed Start */
+    .container {
+        max-width: 100%;
+        padding: 0 50px;
+    }
+    .btnStyle{
+        padding: 11px 34px;
+    }
+    .fontSize54 {
+        font-size: 43px;
+        line-height: 50px;
+    }
+    .fontSize94 {
+        font-size: 65px;
+        line-height: 75px;
+    }
+    .fontSize81 {
+        font-size: 64px;
+        line-height: 76px;
+    }
+    .footerCurve{
+        top: -59px;
+        height: 60px;
+    }
+    /* Common Classed End */
+    /* Home Page Start */
+    .mainBanners h1 {
+        font-size: 65px;
+        line-height: 76px;
+    }
+    .mainBanners h3 {
+        font-size: 27px;
+        line-height: 33px;
+    }
+    .mainBanners p{
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .ourSolutionLists {
+        /* padding: 0 0 0 40px; */
+        padding: 0 0 0 75px;
+    }
+    .ourSolutionLists .ourSolList {
+        height: 204px;
+        width: 204px;
+        padding: 20px;
+        margin: 15px 15px;
+    }
+    .ourSolutionLists .ourSolList .cardImage {
+        height: 120px;
+    }
+    .ourSolutionLists .ourSolList .cardContent{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .ourSolutionLeft {
+        width: 340px;
+        min-width: 340px;
+    }
+    .ourSolutionLeft .nav-item{
+        width: 100%;
+    }
+    .trustedSec h2{
+        display: block;
+        width: 100%;
+    }
+    .trustedSec .trustedSecInner{
+        display: inherit;
+    }
+    .trustedSec ul{
+        width: 100%;
+    }
+    .userSec ul{
+        padding: 0;
+    }
+    .downloadSec .row {
+        padding: 70px 0px 0px;
+    }
+    .footerBtm .footmidArea li{
+        margin: 0 10px;
+    }
+    .ourSolutions {
+        padding: 90px 0;
+    }
+    /* Home Page End */
+    /* Become Partner Page Start */
+    .partnerPage .yourBusiness .busLeftCont {
+        padding-left: 15%;
+    }
+    .partnerPage .busLeftCont h1 {
+        font-size: 56px;
+        line-height: 75px;
+        margin-bottom: 30px;
+    }
+    .partnerPage .servicesLeftContent p.fontSize38 {
+        font-size: 27px;
+        line-height: 38px;
+    }
+
+    .leftForm {
+        padding: 40px 60px 35px 60px;
+    }
+    .ownBossInfo {
+        width: 100%;
+    }
+    .solFormBox {
+        width: 95%;
+    }
+    /* Become Partner Page End */
+    /* Common Pages Start */
+    .innerSections {
+        margin-top: 130px;
+    }
+    .contentEditor .editorBox {
+        padding: 0 30px;
+    }
+    /* Common Pages End */
+    /* Blog Page Start */
+    .blogItems .blogImage {
+        height: 280px;
+    }
+    .blogItems .blogDetails .blogTitle {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    /* .blogLists .blogImage {
+        height: 130px;
+    } */
+    /* Blog Page End */
+    /* Blog Detail Page Start */
+    .detailBottomInner{
+        padding-left: 60px;
+    }
+    .blogDetailBtm {
+        margin-bottom: 100px;
+    }
+    .topSpace {
+        margin-top: 150px;
+    }
+    /* Blog Detail Page End */
+    /* Category Detail Page Start */
+    .ourSolutionsInner.ourSolutionsInner3{
+        display: inherit;
+    }
+    .solCategories .ourSolutionsInner3 .ourSolutionRight{
+        padding-left: 0;
+        margin-top: 50px;
+    }
+    /* Category Detail Page End */
+    /* Category Detail2 Page Start */
+    .ourSolutionLeft.ourSolutionLeft2 .nav-item{
+        margin-right: 30px;
+    }
+    .ourSolutionLeft.ourSolutionLeft2 .nav-link{
+        font-size: 24px;
+        padding: 0px 30px 40px 0px;
+    }
+    .ourSolutions.solCategories {
+        padding: 90px 0 50px;
+    }
+    .ourSolutionLeft.ourSolutionLeft2{
+        margin-bottom: 80px;
+    }
+    /* Category Detail2 Page End */
+    /* Contact Page Start */
+    .contactForm .solFormBox {
+        width: 95%;
+    }
+    .contactusPage .innerSections .col-sm-8{
+        flex: 0 0 90%;
+        max-width: 90%;
+    }
+    /* Contact Page End */
+    /* Solutions Page Start */
+    .solutionsBoxs {
+        padding: 90px 0 50px;
+    }
+    /* Solutions Page End */
+    /* About Page Start */
+    .yourBusiness.aboutTopBox .busLeftCont {
+        padding-left: 11%;
+    }
+    .weHelpSection .handleTop h2{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .weHelpSection .handleList {
+        width: 42%;
+    }
+    .ourServicesLeft {
+        padding-right: 35px;
+    }
+    .ourServicesRight{
+        margin-top: 200px;
+        padding-right: 0;
+    }
+    .servicesSteps .stepNumber span {
+        font-size: 150px;
+    }
+    .trustedSec2 {
+        margin-bottom: 60px;
+    }
+    /* About Page End */
+    .cookiesSec.container {
+        padding: 10px 35px;
+    }
+    .yourBusImage {
+        padding-left: 50px;
+    }
+    .yourBusiness .servicesLeftContent .btmContent {
+        padding-right: 0;
+    }
+    .contactHere ul li a{
+        font-size: 24px;
+        line-height: 28px;
+    }
+    
+}
+@media(max-width: 991px){
+    /* Common Classes Start */
+    .fontSize94 {
+        font-size: 58px;
+        line-height: 65px;
+    }
+    .fontSize81 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .container {
+        max-width: 100%;
+        padding: 0 35px;
+    }
+    /* Common Classes End */
+    /* Home Page Start */
+    .mainBanners h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .ourSolutionsInner{
+        display: initial;
+    }
+    .ourSolutionLists{
+        padding-left: 0;
+    }
+    .ourSolutionLists .ourSolList {
+        height: 202px;
+        width: 202px;
+        margin: 10px 10px;
+    }
+    .yourBusiness .busLeftCont {
+        padding-left: 6%;
+    }
+    .yourBusiness .col-sm-5,
+    .yourBusiness .col-sm-7{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .yourBusiness .col-sm-5 .servicesLeftContent, 
+    .yourBusiness .col-sm-7 .yourBusImage{
+        width: 85%;
+    }
+    .yourBusiness .col-sm-6 .servicesLeftContent,
+    .yourBusiness .col-sm-6 .yourBusImage{
+        width: 85%;
+    }
+    .yourBusiness .col-sm-7 .yourBusImage,
+    .yourBusiness .col-sm-6 .yourBusImage{
+        float: right;
+        margin-top: 70px;
+    }
+    .footer .col-sm-8,
+    .footer .col-sm-4{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .footmiddle {
+        width: 33%;
+    }
+    .footerBtm{
+        display: block;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .footleft{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .footleft .footLogo{
+        float: left;
+    }
+    .footerBtm .copyRight,
+    .footerBtm .footmidArea.footBtmmenu{
+        width: 50%;
+        display: inline-block;
+        float: left;
+    }
+    .footerBtm .footmidArea li{
+        display: inline-block;
+        float: left;
+    }
+    .copyRight p{
+        float: left;
+        text-align: left;
+    }
+    .socialUser{
+        font-size: 60px;
+        /* margin-left: 20px; */
+    }
+    .trustedSec {
+        background-color: #fff;
+        padding: 70px 0 50px;
+    }
+    .footerCurve {
+        top: -39px;
+        height: 40px;
+    }
+    .downloadSec{
+        margin-bottom: 40px;
+    }
+    .footerSocial {
+        margin-top: 35px;
+    }
+    .footer {
+        padding: 60px 0 30px;
+    }
+    /* Home Page End */
+    /* Partner Page Start */
+    .partnerPage .yourBusiness .busLeftCont {
+        padding-left: 6%;
+    }
+    .solutionForm h2 {
+        margin-bottom: 30px;
+    }
+    .partnerPage .busLeftCont h1 {
+        font-size: 50px;
+        line-height: 65px;
+        margin-bottom: 25px;
+    }
+    .solutionsDetails {
+        padding: 50px 0 50px;
+    }
+    .ownBossBox {
+        margin: 80px 0 40px;
+    }
+    /* Partner Page End */
+    /* Common Pages Start */
+    .contactusPage .innerSections {
+        margin-bottom: 30px;
+    }
+    .contentEditor .editorBox {
+        padding: 0px;
+        margin-bottom: 70px;
+    }
+    /* Common Pages End */
+    /* Blog Page Start */
+    .blogItems .blogImage {
+        height: 210px;
+    }
+    /* .blogLists .blogImage {
+        height: 100px;
+    } */
+    .blogLists {
+        margin-bottom: 90px;
+    }
+    /* Blog Page End */
+    /* Blog Detail Page Start */
+    .topSpace {
+        margin-top: 130px;
+    }
+    .blogDetailImage .detailImageInner{
+        width: 94%;
+    }
+    .detailBottomInner .col-sm-8,
+    .detailBottomInner .col-sm-4{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .detailBottomInner {
+        padding-left: 0px;
+    }
+    .blogDetailImage {
+        margin-bottom: 50px;
+    }
+    .blogDetailLeft .blogTop,
+    .blogDetailLeft .blogTitle{
+        margin-bottom: 30px;
+    }
+    .editorBox p{
+        padding-bottom: 25px;
+    }
+    .blogDetailLeft .editorBox{
+        padding-right: 0px;
+    }
+    .recentBlogs {
+        margin-top: 80px;
+    }
+    /* Blog Detail Page End */
+    /* Category Detail Page Start */
+    .mainBanners h1 {
+        padding-right: 0;
+    }
+    /* Category Detail Page End */
+    /* Category Detail2 Page Start */
+    .ourSolutionsInner.ourSolutionsInner2 {
+        padding: 0px 0px;
+    }
+    .ourSolutionLeft.ourSolutionLeft2 .nav-item {
+        margin-right: 27px;
+    }
+    .ourSolutionLeft.ourSolutionLeft2 .nav-link{
+        font-size: 20px;
+    }
+    /* Category Detail2 Page End */
+    /* Solutions Page Start */
+    .rightForm {
+        padding: 54px 50px 35px 50px;
+    }
+    .leftForm {
+        padding: 40px 50px 35px 50px;
+    }
+    /* Solutions Page End */
+    /* Feedback Modal Start */
+    .solFormBox.feedbackForm{
+        padding: 50px 50px 50px;
+    }
+    /* Feedback Modal End */
+    /* About Page Start */
+    .aboutTopBox .row .col-sm-6{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .yourBusiness.aboutTopBox .busLeftCont {
+        padding-left: 0;
+    }
+    .yourBusiness.aboutTopBox .handleTop,
+    .yourBusiness.aboutTopBox .handleBottom{
+        padding: 0 35px;
+    }
+    .yourBusiness.aboutTopBox .yourBusImage{
+        padding-left: 35px;
+    }
+    .yourBusiness.aboutTopBox .yourBusImage img{
+        overflow: hidden;
+        border-radius: 12px 0 0 12px;
+    }
+    .ourServices .col-sm-5, 
+    .ourServices .col-sm-7{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .ourServicesRight {
+        margin-top: 80px;
+    }
+    .servicesSteps {
+        /* margin-bottom: 80px; */
+    }
+    
+    /* About Page End */
+
+    /* Cookie Section Start */
+    .cookiesSec.container{
+        padding: 10px 35px;
+    }
+    .cookiesSec a.btnStyle {
+        margin-left: 20px;
+    }
+    /* Cookie Section End */
+    .yourBusImage {
+        padding-left: 0;
+    }
+    .yourBusiness .col-sm-6{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .contactHere {
+        margin-top: 10px;
+    }
+    .contactHere ul li a {
+        font-size: 20px;
+        line-height: 22px;
+    }
+}
+@media(max-width: 767px){
+    /* Sidenav Start */
+    .navbar-expand-md .navbar-toggler {
+        display: block;
+        z-index: 9;
+        padding: 10px 15px;
+        position: absolute;
+        right: 0;
+    }
+    .navbar-expand-md .navbar-collapse {
+        position: fixed;
+        left: 0;
+        top: 0;
+        top: -100%;
+        background: #484748;
+        height: auto;
+        transition: all 0.3s ease;
+        display: initial !important;
+        z-index: 9;
+        width: 100%;
+    }    
+    .nav-link:hover, .nav-link:focus{
+        border-bottom: none;
+    }
+    .navbar-expand-md .navbar-nav {
+        flex-direction: column;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        margin-bottom: 5px;
+    }
+    .headerBox {
+        display: block !important;
+        float: left !important;
+    }
+    .navbar-expand-md .navbar-nav .nav-link{
+        padding: 0;
+    }
+    .nav-item{
+        margin-bottom: 25px;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu{
+        position: relative;
+        background: transparent;
+        border: none;
+        padding-bottom: 0;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu.show{
+        transition: all 0.3s ease;
+    }
+    .navbar-expand-md {
+        padding: 15px 0;
+    }
+    .navbar-brand{
+        z-index: 99;
+    }
+
+    /* Sidenav End */
+    /* Common Classes Start */
+    
+    .fontSize54 {
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .fontSize94 {
+        font-size: 56px;
+        line-height: 65px;
+    }
+    /* Common Classes End */
+    /* Home Page Start */
+    .headMenu.btnStyle{
+        padding: 9px 35px;
+        margin-left: 0;
+    }
+    .headerBox{
+        margin: 100px 35px 30px;
+    }
+    .container {
+        max-width: 100%;
+        padding: 0 35px;
+    }
+    .mainBanners h1 {
+        font-size: 56px;
+        line-height: 66px;
+    }
+    .ourSolutionLeft{
+        width: 100%;
+        min-width: 100%;
+    }
+    .ourSolutionLeft .nav-tabs{
+        width: 300px;
+    }
+    .yourBusiness .col-sm-5 .servicesLeftContent, 
+    .yourBusiness .col-sm-7 .yourBusImage {
+        width: 94%;
+    }
+    .userSec ul{
+        display: block;
+        width: 100%;
+    }
+    .userSec li{
+        /* display: inline-flex;
+        justify-content: center;*/
+        width: 100%; 
+        margin-bottom: 50px;
+        float: left;
+    }
+    .userSec li:last-child{
+        margin-bottom: 0;
+    }
+    .downloadSec .col-sm-7,
+    .downloadSec .col-sm-5{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .downloadConts{
+        margin-bottom: 50px;
+    }
+    .dowloadMainImg{
+        width: 100%;
+        text-align: center;
+    }
+    .dowloadMainImg img{
+        width: 60%;
+    }
+    .downloadSec {
+        margin-bottom: -25px;
+    }
+    .footmiddle {
+        width: 33.3%;
+    }
+    .footmiddle .footmidArea {
+        padding-right: 10px;
+    }
+    .footerBtm .copyRight, .footerBtm .footmidArea.footBtmmenu {
+        width: 100%;
+        display: inline-block;
+        float: left;
+    }
+    .footerBtm .footmidArea{
+        margin-top: 15px;
+    }
+    .footerBtm .footmidArea li:first-child{
+        margin-left: 0;
+    }
+    /* Home Page End */
+    /* Become Partner Page Start */
+    .partnerPage .busLeftCont h1 {
+        font-size: 47px;
+        line-height: 60px;
+        margin-bottom: 20px;
+    }
+    .solDescription .solutionIcon{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .solDescription .solutionDescrip{
+        width: 50%;
+        padding: 0 10px;
+    }
+    /* Become Partner Page End */
+    /* Blog Page Start */
+    .blogItems .blogDetails .blogTitle {
+        font-size: 27px;
+        line-height: 33px;
+    }
+    .blogLists .col-sm-3{
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    /* .blogLists .blogImage {
+        height: auto;
+    } */
+    .blogItems .blogImage {
+        height: auto;
+    }
+    .blogItems {
+        margin-bottom: 50px;
+    }
+    /* Blog Page End */
+    /* Blog Detail Page Start */
+    .blogDetailPage{
+        margin-top: 100px;
+    }
+    .fontSize81 {
+        font-size: 56px;
+        line-height: 66px;
+    }
+    /* Blog Detail Page End */
+    /* Category Detail2 Page Start */
+    .ourSolutionLeft .nav-tabs{
+        width: 330px;
+    }
+    .ourSolutionLeft.ourSolutionLeft2 .nav-item{
+        width: 44%;
+        margin-bottom: 30px;
+    }
+    /* Category Detail2 Page Start */
+    /* Feedback Modal Start */
+    .solFormBox.feedbackForm{
+        padding: 35px 35px 35px;
+    }
+    button.close {
+        height: 40px;
+        width: 40px;
+    }
+    /* Feedback Modal End */
+    /* About Page Start */
+    .aboutPage.contactusPage h1{
+        margin-bottom: 10px;
+    }
+    .weHelpSection .handleTop h2 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .weHelpSection .handleTop {
+        margin-bottom: 40px;
+    }
+    .yourBusiness.aboutTopBox {
+        margin-bottom: 80px;
+    }
+    .servicesLeftContent h2{
+        font-size: 54px;
+        line-height: 64px;
+    }
+    /* About Page End */
+    /* Cookie Section Start */
+    .cookiesSecInner{
+        display: inherit;
+    }
+    .cookieRight{
+        display: block;
+        width: 100%;
+        margin-top: 20px;
+        float: left;
+    }
+    .cookiesSec ul{
+        display: inherit;
+    }
+    .cookiesSec a.btnStyle {
+        margin-left: 20px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .cookiesSec li:first-child a.btnStyle{
+        margin-left: 0;
+    }
+    .cookiesSec p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    /* Cookie Section End */
+    .solCategories2 .ourSolutionLeft .nav-tabs{
+        width: 100%;
+    }
+    .recentBlogSlider .slick-prev:before, .recentBlogSlider .slick-next:before{
+        font-size: 28px;
+    }
+    .recentBlogSlider .slick-list {
+        margin: 0 30px;
+    }
+    .mainBanners h1 {
+        margin-top: 40px;
+    }
+    .ourServicesRight {
+        padding-right: 0;
+    }
+    .formStyle .col-sm-6{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .contactHere ul li{
+        width: 100%;
+        display: block;
+    }
+    .contactHere ul li{
+        margin-bottom: 15px;
+    }
+    
+}
+@media(max-width: 560px){
+    /* Common Classes Start */
+    .fontSize38 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+    /* Common Classes End */
+
+    /* Home Page Start */
+    .bannerHome.mainBanners p{
+        display: none;
+    }
+    .bannerHome.mainBanners{
+        display: inherit;
+        height: 667px;
+    }
+    .bannerHome.mainBanners h1{
+        padding-top: 200px;
+    }
+    .bannerHome.mainBanners a{
+        margin-top: 110px;
+    }
+    .homeSolutions.ourSolutions .solutionTabs,
+    .homeSolutions.ourSolutions .ourSolutionRight{
+        display: none;
+    }
+    .yourBusiness .servicesLeftContent .btmContent{
+        padding-right: 0;
+    }
+    .trustedSec ul{
+        display: inherit;
+        margin-top: 50px;
+    }
+    .trustedSec ul li{
+        width: 32%;
+        float: left;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+    .socialUser{
+        font-size: 76px;
+    }
+    .userSec li{
+        margin-bottom: 60px;
+    }
+    .downloadConts h2{
+        font-size: 27px;
+    }
+    .downloadSec .row {
+        padding: 50px 0px 0px;
+    }
+    .downloadConts p {
+        margin: 30px 0 25px;
+    }
+    .joinmailform .joingroup{
+        height: auto;
+    }
+    .joinmailform input{
+        padding: 13px 150px 13px 18px;
+    }
+    .joinmailform button{
+        line-height: 18px;
+        padding: 15px 15px;
+    }
+    .dowloadMainImg img {
+        width: 80%;
+    }
+    .downloadSec {
+        margin-bottom: -80px;
+    }
+    .footer{
+        padding-top: 120px;
+    }
+    .footerCurve {
+        top: -16px;
+        height: 17px;
+    }
+    .footmiddle {
+        width: 100%;
+    }
+    .footmiddle .footmidArea{
+        width: 100%;
+    }
+    .joinmailform .footerForm button{
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .joinmailform .footerForm input {
+        padding: 17px 105px 17px 18px;
+    }
+    .footerBtm .footmidArea li{
+        width: 100%;
+        margin: 0;
+        margin-bottom: 14px;
+    }
+    .footerBtm .footmidArea li:last-child{
+        margin-bottom: 0;
+    }
+    .footerBtm .footmidArea li a{
+        float: left;
+    }
+    .ourSolMobile{
+        display: block;
+      }
+    /* Home Page End */
+    /* Become Partner Page Start */
+    .partnerPage .busLeftCont h1{
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .partnerPage .servicesLeftContent p.fontSize38 {
+        font-size: 24px;
+        line-height: 33px;
+    }
+    .servicesLeftContent p br{
+        display: none;
+    }
+    .partnerPage .yourBusiness .busLeftCont {
+        padding-left: 35px;
+    }
+    .yourBusiness .col-sm-5 .servicesLeftContent{
+        padding-right: 35px;
+    }
+    .yourBusiness .col-sm-5 .servicesLeftContent, .yourBusiness .col-sm-7 .yourBusImage {
+        width: 100%;
+        padding-left: 35px;
+    }
+    .yourBusiness .col-sm-7 .yourBusImage img{
+        border-radius: 10px 0 0 10px;
+    }
+    .solDescription .solutionDescrip {
+        width: 100%;
+        padding: 0;
+        margin-bottom: 50px;
+    }
+    .solDescription .solutionDescrip:last-child{
+        margin-bottom: 0;
+    }
+    .solDescription .solutionIcon{
+        padding: 0;
+    }
+    .solFormBox {
+        width: 100%;
+    }
+    .leftForm {
+        padding: 60px 35px 60px 35px;
+    }
+    .formStyle .form-group {
+        margin-bottom: 17px;
+    }
+    .customCheck input[type="checkbox"]:checked + label, 
+    .customCheck input[type="checkbox"]:not(:checked) + label{
+        line-height: 18px;
+    }
+    /* Become Partner Page End */
+    /* Our Blog Page Start */
+    .blogItems .blogDetails .blogTitle br{
+        display: none;
+    }
+    .blogSection .bolgCard{
+        margin-bottom: 25px;
+    }
+    .blogLists .col-sm-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .blogItems {
+        margin-bottom: 0;
+    }
+    .blogLists {
+        margin-bottom: 40px;
+    }
+    .footerall h4{
+        padding-bottom: 10px;
+    }
+    /* Our Blog Page End */
+    /* Blog Detail Page Start */
+    .blogDetailPage {
+        margin-top: 92px;
+    }
+    .blogDetailImage .detailImageInner {
+        width: 100%;
+        padding-left: 35px;
+    }
+    .blogDetailImage .detailImageInner img{
+        border-radius: 10px 0 0 10px;
+    }
+    .recentBlogs .recentBlogBox .blogImage{
+        width: 142px;
+        min-width: 142px;
+        height: 110px;
+    }
+    .recentBlogs .recentBlogBox .blogImage {
+        margin-right: 20px;
+    }
+    /* Blog Detail Page End */
+    /* Category Detail Page Start */
+    .ourSolutionLeft .nav-tabs {
+        width: 345px;
+    }
+    .mainBanners.mainBanner2 {
+        height: 666px;
+    }
+    .ourSolutions.solCategories {
+        padding: 120px 0 50px;
+    }
+    .solCategories .solDescription .solutionIcon{
+        margin-bottom: 30px;
+    }
+    .solCategories .solDescription .solutionDescrip{
+        margin-bottom: 30px;
+    }
+    .solCategories .solDescription .solutionDescrip:last-child{
+        margin-bottom: 0;
+    }
+    .solutionForm.catDetailForm h2{
+        font-size: 27px;
+        line-height: 36px;
+    }
+    .solutionForm.catDetailForm h2 br{
+        display: none;
+    }
+    .rightForm {
+        padding: 60px 35px 60px 35px;
+    }
+    .solCategories .solutionTabs{
+        margin-left: -35px;
+    }
+    /* Category Detail Page End */
+    /* Category Details2 Page Start */
+    .ourSolutionLeft.ourSolutionLeft2 .nav-item {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+    .ourSolutionLeft.ourSolutionLeft2 .nav-link {
+        font-size: 24px;
+        padding: 0px 30px 30px 0px;
+    }
+    /* Category Details2 Page End */
+    /* Contactus Page Start */
+    .contactPage .contactBg{
+        display: none;
+    }
+    .contactPage .innerSections h1{
+        margin-bottom: 120px;
+    }
+    .contactPage .innerSections{
+        margin-bottom: 76px;
+    }
+    .contactForm .solFormBox {
+        width: 100%;
+    }
+    /* Contactus Page End */
+    /* Common Pages Start */
+    .editorBox h3{
+        margin-bottom: 100px;
+    }
+    .cookieCategory thead{
+        display: none;
+    }
+    .cookieCategory tr td,
+    .cookieCategory tr td:first-child{
+        width: 100%;
+        display: block;
+    }
+    .cookieCategory tr td{
+        border-bottom: none;
+    }
+    .cookieCategory tr td:first-child{
+        border-top: 1px solid #484748;
+    }
+    .cookieCategory tr:first-child td:first-child{
+        border-top: none;
+    }
+    .cookieCategory tr td {
+        padding: 20px 0px 20px;
+    }
+    .cookieCategory tr td:last-child{
+        padding-top: 0;
+    }
+    /* Common Pages End */
+    /* Solutions Page Start */
+    .solutionsBoxs {
+        padding: 160px 0 50px;
+    }
+    .ourSolutionLists .ourSolList {
+        height: 268px;
+        width: 304px;
+        margin: 10px 0px;
+        padding: 28px;
+    }
+    .solutionsBoxs .ourSolutionLists{
+        text-align: center;
+    }
+    .ourSolutionLists .ourSolList .cardContent {
+        font-size: 24px;
+        line-height: 48px;
+    }
+    .ourSolutionLists .ourSolList .cardImage {
+        height: 160px;
+    }
+    .ourSolutionLists .ourSolList .cardImage img{
+        height: auto;
+        width: auto;
+    }
+    .solutionsTypes {
+        margin-bottom: 70px;
+    }
+    .solutionHeading {
+        margin-bottom: 20px;
+    }
+    .solutionsPageForm .solFormBox h2{
+            font-size: 27px;
+            line-height: 36px;
+    }
+    /* Solutions Page End */
+    .mainBanners h3 br{
+        display: none;
+    }
+    .mainBanners h3{
+        letter-spacing: -0.6px;
+    }
+    .mainBanners h1{
+        letter-spacing: -2.24px;
+    }
+    .ourSolutionLeft{
+        /* width: 110%; */
+        width: 100%;
+    }
+    .solutionTabs .nav-item .nav-link:hover, 
+    .solutionTabs .nav-item .nav-link.active{
+        width: 100%;
+    }
+
+    /* Feedback Modal Start */
+    .solFormBox.feedbackForm{
+        padding: 30px 20px 50px;
+    }
+    button.close {
+        display: none;
+    }
+    .feedbackModal .modal-dialog {
+        margin: 40px auto;
+    }
+    .feedbackForm h2{
+        font-size: 38px;
+        line-height: 48px;
+        letter-spacing: -0.95px;
+    }
+    .feedbackForm .modalContent{
+        font-size: 18px;
+        line-height: 27px;
+    }
+    /* Feedback Modal End */
+    /* About Page Start */
+    .weHelpSection .handleTop h2 {
+        font-size: 24px;
+        line-height: 33px;
+    }
+    .weHelpSection .handleTop {
+        margin-bottom: 25px;
+    }
+    .weHelpSection .handleList {
+        width: 100%;
+        margin-right: 0;
+    }
+    .ourServicesLeft {
+        padding-right: 0px;
+    }
+    .ourServicesRight {
+        padding-right: 0px;
+    }
+    .servicesSteps{
+        display: inherit;
+        margin-bottom: 50px;
+    }
+    .ourServicesRight {
+        margin-top: 50px;
+    }
+    .servicesSteps .stepNumber span{
+        line-height: 110px;
+    }
+    .servicesSteps .stepNumber{
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    .trustedSec2{
+        margin-top: 0;
+        margin-bottom: 17px;
+    }
+    .aboutPage.contactusPage h1{
+        letter-spacing: -2.25px;
+    }
+    /* About Page End */
+    /* Cookie Section Start */
+    .cookiesSec p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .cookiesSec a.btnStyle {
+        margin-left: 10px;
+        font-size: 14px;
+        line-height: 15px;
+    }
+    /* Cookie Section End */
+    .solCategories2.solCategories .solutionTabs{
+        margin-left: 0;
+    }
+    .mainBanners h1 {
+        margin-top: 0px;
+    }
+    .yourBusiness .col-sm-6 .yourBusImage{
+        width: 100%;
+        padding-left: 35px;
+    }
+    .contactHere ul li a {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
+@media(max-width: 414px){
+    .ourSolutionLists .ourSolList {
+        height: 268px;
+        /* width: 100%; */
+        margin: 10px 0px;
+        padding: 28px;
+    }
+    .ourSolutionLeft .nav-tabs {
+        width: 100%;
+    }
+    .formStyle .g-recaptcha div{
+        /* -webkit-transform: scale(0.98); */
+        -webkit-transform-origin: 0 0;
+        width: 100% !important;
+    }
+    .formStyle .g-recaptcha div iframe{
+        width: 100%;
+    }
+    .contactHere ul li {
+        margin-bottom: 10px;
+    }
+    .contactHere ul li a {
+        font-size: 17px;
+        line-height: 18px;
+    }
+    .contactHere {
+        margin-top: 0;
+    }
+}
+@media(max-width: 375px){
+    /* Common Classes Start */
+    .fontSize54{
+        letter-spacing: -0.95px;
+    }
+    .fontSize38{
+        letter-spacing: -0.95px;
+    }
+    /* Common Classes End */
+    /* Home Page Start */
+    .bannerHome.mainBanners a {
+        margin-top: 95px;
+    }
+    .ourSolutions {
+        padding: 80px 0;
+    }
+    .yourBusiness .col-sm-7 .yourBusImage {
+        float: right;
+        margin-top: 60px;
+    }
+    .trustedSec ul li{
+        width: 34%;
+        margin: 0 20px;
+    }
+    .socialUser{
+        /* margin-left: 40px; */
+    }
+    /* Home Page End */
+    /* Become Partner Page Start */
+    .solDescription .solutionIcon,
+    .solDescription .solutionDescrip {
+        margin-bottom: 40px;
+    }
+    .solutionsDetails{
+        padding-bottom: 65px;
+    }
+    .ownBossBox {
+        margin: 80px 0 20px;
+    }
+    /* Become Partner Page End */
+    /* Our Solutions Page Start */
+    .ourSolutionLists .ourSolList {
+        height: 268px;
+        width: 100%;
+        margin: 10px 0px;
+        padding: 28px;
+    }
+    
+    /* Our Solutions Page End */
+    /* About Page Start */
+
+    /* About Page End */
+    .yourBusiness .col-sm-6 .yourBusImage{
+        margin-top: 60px;
+    }
+   
+
+}
